@@ -1,0 +1,10 @@
+{
+  "name": "climbapp",
+  "version": "1.0.0",
+  "description": "Climbin app",
+  "main": "index.js",
+  "repository": "git@github.com:castiarena/climbapp.git",
+  "author": "Agustin Castiarena <castiarena@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
